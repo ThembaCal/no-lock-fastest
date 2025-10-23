@@ -1,0 +1,149 @@
+{'Name': 'Obey 9F', 'Class': 'Sports', 'Top Speed': '121.25 mph (195.13 km/h)', 'Price': '$120,000'}
+{'Name': 'Obey 9F Cabrio', 'Class': 'Sports', 'Top Speed': '121.25 mph (195.13 km/h)', 'Price': '$130,000'}
+{'Name': 'Obey 10F', 'Class': 'Sports', 'Top Speed': '126.00 mph (202.78 km/h)', 'Price': '$1,675,000'}
+{'Name': 'Obey 10F Widebody', 'Class': 'Sports', 'Top Speed': '128.00 mph (206.00 km/h)', 'Price': '$575,000'}
+{'Name': 'Annis 300R', 'Class': 'Sports', 'Top Speed': '120.00 mph (193.12 km/h)', 'Price': '$2,075,000'}
+{'Name': 'Pfister 811', 'Class': 'Super', 'Top Speed': '130.75 mph (210.42 km/h)', 'Price': '$1,135,000'}
+{'Name': 'Dinka Akuma', 'Class': 'Motorcycles', 'Top Speed': '121.25 mph (195.13 km/h)', 'Price': '$9,000'}
+{'Name': 'Vapid Aleutian', 'Class': 'SUVs', 'Top Speed': '113.25 mph (182.26 km/h)', 'Price': '$1,835,000'}
+{'Name': 'Gallivanter Baller LE (Armored)', 'Class': 'SUVs', 'Top Speed': '108.50 mph (174.61 km/h)', 'Price': '$374,000'}
+{'Name': 'Gallivanter Baller LE LWB (Armored)', 'Class': 'SUVs', 'Top Speed': '108.00 mph (173.81 km/h)', 'Price': '$513,000'}
+{'Name': 'Gallivanter Baller ST-D', 'Class': 'SUVs', 'Top Speed': '118.25 mph (190.30 km/h)', 'Price': '$1,715,000'}
+{'Name': 'Bravado Banshee GTS', 'Class': 'Sports', 'Top Speed': '138.00 mph (222.09 km/h)', 'Price': '$1,989,500'}
+{'Name': 'Pegassi Bati 801', 'Class': 'Motorcycles', 'Top Speed': '135.00 mph (217.26 km/h)', 'Price': '$15,000'}
+{'Name': 'Pegassi Bati 801RR', 'Class': 'Motorcycles', 'Top Speed': '135.00 mph (217.26 km/h)', 'Price': '$15,000'}
+{'Name': 'Classique Broadway', 'Class': 'Muscle', 'Top Speed': '100.00 mph (160.93 km/h)', 'Price': '$925,000'}
+{'Name': 'Bravado Buffalo EVX', 'Class': 'Muscle', 'Top Speed': '119.00 mph (191.51 km/h)', 'Price': '$2,140,000'}
+{'Name': 'Bravado Buffalo S', 'Class': 'Sports', 'Top Speed': '113.00 mph (181.86 km/h)', 'Price': '$96,000'}
+{'Name': 'Bravado Buffalo STX', 'Class': 'Muscle', 'Top Speed': '126.00 mph (202.78 km/h)', 'Price': '$2,150,000'}
+{'Name': 'Karin Calico GTF', 'Class': 'Sports, Tuners', 'Top Speed': '121.00 mph (194.73 km/h)', 'Price': '$1,995,000'}
+{'Name': 'Vapid Caracara 4x4', 'Class': 'Off', 'Top Speed': '103.25 mph (166.16 km/h)', 'Price': '$875,000'}
+{'Name': 'Vapid Caracara Pursuit', 'Class': 'Emergency', 'Top Speed': '104.75 mph (168.58 km/h)', 'Price': '$5,335,000'}
+{'Name': 'Dewbauchee Champion', 'Class': 'Super', 'Top Speed': '125.00 mph (201.17 km/h)', 'Price': '$3,750,000'}
+{'Name': 'Dinka Chavos V6', 'Class': 'Sedans', 'Top Speed': '115.50 mph (185.88 km/h)', 'Price': '$1,420,000'}
+{'Name': 'RUNE Cheburek', 'Class': 'Sports Classics', 'Top Speed': '108.50 mph (174.61 km/h)', 'Price': '$145,000'}
+{'Name': 'Enus Cognoscenti', 'Class': 'Sedans', 'Top Speed': '110.50 mph (177.83 km/h)', 'Price': '$254,000'}
+{'Name': 'Enus Cognoscenti (Armored)', 'Class': 'Sedans', 'Top Speed': '110.25 mph (177.43 km/h)', 'Price': '$558,000'}
+{'Name': 'Enus Cognoscenti 55', 'Class': 'Sedans', 'Top Speed': '113.25 mph (182.26 km/h)', 'Price': '$154,000'}
+{'Name': 'Enus Cognoscenti 55 (Armored)', 'Class': 'Sedans', 'Top Speed': '113.00 mph (181.86 km/h)', 'Price': '$396,000'}
+{'Name': 'Pfister Comet', 'Class': 'Sports', 'Top Speed': '119.75 mph (192.72 km/h)', 'Price': '$100,000'}
+{'Name': 'Pfister Comet S2', 'Class': 'Sports, Tuners', 'Top Speed': '122.50 mph (197.14 km/h)', 'Price': '$1,878,000'}
+{'Name': 'Pfister Comet S2 Cabrio', 'Class': 'Sports', 'Top Speed': '129.25 mph (208.01 km/h)', 'Price': '$1,797,000'}
+{'Name': 'Pfister Comet SR', 'Class': 'Sports', 'Top Speed': '122.00 mph (196.34 km/h)', 'Price': '$1,145,000'}
+{'Name': 'Vapid Contender', 'Class': 'SUVs', 'Top Speed': '109.00 mph (175.42 km/h)', 'Price': '$250,000'}
+{'Name': 'Invetero Coquette D10 Pursuit', 'Class': 'Emergency', 'Top Speed': '133.75 mph (215.25 km/h)', 'Price': '$5,620,000'}
+{'Name': 'Invetero Coquette D5', 'Class': 'Sports', 'Top Speed': '130.75 mph (210.42 km/h)', 'Price': '$1,730,000'}
+{'Name': 'Coil Cyclone', 'Class': 'Super', 'Top Speed': '116.00 mph (186.68 km/h)', 'Price': '$1,890,000'}
+{'Name': 'Enus Deity', 'Class': 'Sedans', 'Top Speed': '115.00 mph (185.07 km/h)', 'Price': '$1,845,000'}
+{'Name': 'Principe Deveste Eight', 'Class': 'Super', 'Top Speed': '131.25 mph (211.23 km/h)', 'Price': '$1,795,000'}
+{'Name': 'Schyster Deviant', 'Class': 'Muscle', 'Top Speed': '108.00 mph (173.81 km/h)', 'Price': '$512,000'}
+{'Name': 'Vapid Dominator', 'Class': 'Muscle', 'Top Speed': '120.75 mph (194.33 km/h)', 'Price': '$35,000'}
+{'Name': 'Vapid Dominator ASP', 'Class': 'Muscle, Tuners', 'Top Speed': '118.75 mph (191.11 km/h)', 'Price': '$1,775,000'}
+{'Name': 'Vapid Dominator FX Interceptor', 'Class': 'Emergency', 'Top Speed': '124.00 mph (199.56 km/h)', 'Price': '$4,950,000'}
+{'Name': 'Vapid Dominator GTT', 'Class': 'Muscle, Tuners', 'Top Speed': '115.00 mph (185.07 km/h)', 'Price': '$1,220,000'}
+{'Name': 'Bravado Dorado Cruiser', 'Class': 'Emergency', 'Top Speed': '112.75 mph (181.45 km/h)', 'Price': '$5,005,000'}
+{'Name': 'Dinka Double-T', 'Class': 'Motorcycles', 'Top Speed': '118.00 mph (189.90 km/h)', 'Price': '$12,000'}
+{'Name': 'Declasse Drift Walton L35', 'Class': 'Off', 'Top Speed': None, 'Price': '$1,403,750'}
+{'Name': 'Benefactor Dubsta 6x6', 'Class': 'Off', 'Top Speed': '104.25 mph (167.77 km/h)', 'Price': '$249,000'}
+{'Name': "Imponte Duke O'Death", 'Class': 'Muscle', 'Top Speed': '114.50 mph (184.27 km/h)', 'Price': '$665,000'}
+{'Name': 'Overflod Entity MT', 'Class': 'Super', 'Top Speed': '131.25 mph (211.23 km/h)', 'Price': '$2,355,000'}
+{'Name': 'Bollokan Envisage', 'Class': 'Sports', 'Top Speed': '122.00 mph (196.34 km/h)', 'Price': '$2,472,000'}
+{'Name': 'Emperor ETR1', 'Class': 'Super', 'Top Speed': '121.25 mph (195.13 km/h)', 'Price': '$1,995,000'}
+{'Name': 'Willard Eudora', 'Class': 'Muscle', 'Top Speed': '109.00 mph (175.42 km/h)', 'Price': '$1,250,000'}
+{'Name': 'Annis Euros', 'Class': 'Sports, Tuners', 'Top Speed': '117.25 mph (188.70 km/h)', 'Price': '$1,800,000'}
+{'Name': 'Karin Everon RS', 'Class': 'SUVs', 'Top Speed': '125.75 mph (202.37 km/h)', 'Price': '$1,665,000'}
+{'Name': 'Vapid Firebolt ASP', 'Class': 'Off', 'Top Speed': '113.50 mph (182.66 km/h)', 'Price': '$1,894,500'}
+{'Name': 'Karin Futo GTX', 'Class': 'Sports, Tuners', 'Top Speed': '112.50 mph (181.05 km/h)', 'Price': '$1,590,000'}
+{'Name': 'Bravado Gauntlet Hellfire', 'Class': 'Muscle', 'Top Speed': '125.00 mph (201.17 km/h)', 'Price': '$745,000'}
+{'Name': 'Progen GP1', 'Class': 'Super', 'Top Speed': '123.75 mph (199.16 km/h)', 'Price': '$1,260,000'}
+{'Name': 'Declasse Granger 3600LX', 'Class': 'SUVs', 'Top Speed': '97.50 mph (156.91 km/h)', 'Price': '$2,000,000'}
+{'Name': 'Bravado Greenwood', 'Class': 'Muscle', 'Top Speed': '119.50 mph (192.32 km/h)', 'Price': '$1,465,000'}
+{'Name': 'Bravado Greenwood Cruiser', 'Class': 'Emergency', 'Top Speed': '121.50 mph (195.53 km/h)', 'Price': '$4,910,000'}
+{'Name': 'Shitzu Hakuchou', 'Class': 'Motorcycles', 'Top Speed': '134.00 mph (215.65 km/h)', 'Price': '$82,000'}
+{'Name': 'Shitzu Hakuchou Drag Bike', 'Class': 'Motorcycles', 'Top Speed': '126.50 mph (203.58 km/h)', 'Price': '$976,000'}
+{'Name': 'Annis Hardy', 'Class': 'Sedans', 'Top Speed': '128.25 mph (206.40 km/h)', 'Price': '$1,380,000'}
+{'Name': 'Annis Hellion', 'Class': 'Off', 'Top Speed': '104.00 mph (167.37 km/h)', 'Price': '$835,000'}
+{'Name': 'Albany Hermes', 'Class': 'Muscle', 'Top Speed': '115.50 mph (185.88 km/h)', 'Price': '$535,000'}
+{'Name': 'Overflod Imorgon', 'Class': 'Sports', 'Top Speed': '106.75 mph (171.80 km/h)', 'Price': '$2,165,000'}
+{'Name': 'Declasse Impaler LX', 'Class': 'Muscle', 'Top Speed': '115.50 mph (185.88 km/h)', 'Price': '$1,465,000'}
+{'Name': 'Declasse Impaler LX Cruiser', 'Class': 'Emergency', 'Top Speed': '117.00 mph (188.29 km/h)', 'Price': '$4,800,000'}
+{'Name': 'Declasse Impaler SZ Cruiser', 'Class': 'Emergency', 'Top Speed': '118.25 mph (190.30 km/h)', 'Price': '$4,720,000'}
+{'Name': 'Pegassi Infernus', 'Class': 'Super', 'Top Speed': '118.00 mph (189.90 km/h)', 'Price': '$440,000'}
+{'Name': 'Dewbauchee JB 700W', 'Class': 'Sports Classics', 'Top Speed': '120.00 mph (193.12 km/h)', 'Price': '$1,470,000'}
+{'Name': 'Dinka Jester RR', 'Class': 'Sports, Tuners', 'Top Speed': '126.00 mph (202.78 km/h)', 'Price': '$1,970,000'}
+{'Name': 'Enus Jubilee', 'Class': 'SUVs', 'Top Speed': '116.25 mph (187.09 km/h)', 'Price': '$1,650,000'}
+{'Name': 'Ocelot Jugular', 'Class': 'Sports', 'Top Speed': '125.00 mph (201.17 km/h)', 'Price': '$1,225,000'}
+{'Name': 'Benefactor Krieger', 'Class': 'Super', 'Top Speed': '128.00 mph (206.00 km/h)', 'Price': '$2,875,000'}
+{'Name': 'Karin Kuruma', 'Class': 'Sports', 'Top Speed': '113.00 mph (181.86 km/h)', 'Price': '$126,350'}
+{'Name': 'Penaud La Coureuse', 'Class': 'Sports', 'Top Speed': '114.50 mph (184.27 km/h)', 'Price': '$1,990,000'}
+{'Name': 'Ocelot Locust', 'Class': 'Sports', 'Top Speed': '119.50 mph (192.32 km/h)', 'Price': '$1,625,000'}
+{'Name': 'Dinka LSCM Jester RR (Widebody)', 'Class': 'Sports, Tuners', 'Top Speed': '118.25 mph (190.30 km/h)', 'Price': '$2,290,000'}
+{'Name': 'Maibatsu Manchez Scout', 'Class': 'Motorcycles, Off', 'Top Speed': '139.75 mph (224.91 km/h)', 'Price': '$225,000'}
+{'Name': 'Maibatsu MonstroCiti', 'Class': 'Off', 'Top Speed': '109.75 mph (176.63 km/h)', 'Price': '$1,485,000'}
+{'Name': 'Vysser Neo', 'Class': 'Sports', 'Top Speed': '125.25 mph (201.57 km/h)', 'Price': '$1,875,000'}
+{'Name': 'Obey Omnis e-GT', 'Class': 'Sports', 'Top Speed': '111.50 mph (179.44 km/h)', 'Price': '$1,795,000'}
+{'Name': 'Willard Outreach Faction', 'Class': 'Emergency', 'Top Speed': '114.75 mph (184.67 km/h)', 'Price': '$4,150,000'}
+{'Name': 'Enus Paragon R', 'Class': 'Sports', 'Top Speed': '123.00 mph (197.95 km/h)', 'Price': '$905,000'}
+{'Name': 'Enus Paragon S', 'Class': 'Sports', 'Top Speed': '127.50 mph (205.19 km/h)', 'Price': '$2,010,000'}
+{'Name': 'Mammoth Patriot Mil-Spec', 'Class': 'Off', 'Top Speed': '96.00 mph (154.50 km/h)', 'Price': '$1,710,000'}
+{'Name': 'Overflod Pipistrello', 'Class': 'Super', 'Top Speed': '117.75 mph (189.50 km/h)', 'Price': '$2,950,000'}
+{'Name': 'Western Police Bike', 'Class': 'Motorcycles, Emergency', 'Top Speed': '156.75 mph (252.26 km/h)', 'Price': '$4,960,000'}
+{'Name': 'Bravado Police Gauntlet Interceptor', 'Class': 'Emergency', 'Top Speed': '122.00 mph (196.34 km/h)', 'Price': '$5,420,000'}
+{'Name': 'Vapid Police Stanier LE Cruiser', 'Class': 'Emergency', 'Top Speed': '114.25 mph (183.87 km/h)', 'Price': '$4,690,000'}
+{'Name': 'Coil Raiden', 'Class': 'Sports', 'Top Speed': '113.25 mph (182.26 km/h)', 'Price': '$1,375,000'}
+{'Name': 'Dewbauchee Rapid GT X', 'Class': 'Sports', 'Top Speed': '132.25 mph (212.84 km/h)', 'Price': '$2,705,500'}
+{'Name': 'Annis RE-7B', 'Class': 'Super', 'Top Speed': '123.50 mph (198.75 km/h)', 'Price': '$2,475,000'}
+{'Name': 'Western Reever', 'Class': 'Motorcycles', 'Top Speed': '163.00 mph (262.32 km/h)', 'Price': '$1,900,000'}
+{'Name': 'Annis Remus', 'Class': 'Sports, Tuners', 'Top Speed': '115.50 mph (185.88 km/h)', 'Price': '$1,370,000'}
+{'Name': 'Übermacht Revolter', 'Class': 'Sports', 'Top Speed': '116.75 mph (187.89 km/h)', 'Price': '$1,610,000'}
+{'Name': 'Bravado Rumpo Custom', 'Class': 'Vans', 'Top Speed': '98.75 mph (158.92 km/h)', 'Price': '$130,000'}
+{'Name': 'Annis S80RR', 'Class': 'Super', 'Top Speed': '123.00 mph (197.95 km/h)', 'Price': '$2,575,000'}
+{'Name': 'Maibatsu Sanchez', 'Class': 'Motorcycles, Off', 'Top Speed': '119.50 mph (192.32 km/h)', 'Price': '$8,000'}
+{'Name': 'Maibatsu Sanchez (Livery)', 'Class': 'Motorcycles, Off', 'Top Speed': '119.50 mph (192.32 km/h)', 'Price': '$7,000'}
+{'Name': 'Annis Savestra', 'Class': 'Sports Classics', 'Top Speed': '118.00 mph (189.90 km/h)', 'Price': '$990,000'}
+{'Name': 'Übermacht SC1', 'Class': 'Super', 'Top Speed': '121.75 mph (195.94 km/h)', 'Price': '$1,603,000'}
+{'Name': 'Benefactor Schafter LWB', 'Class': 'Sports, Sedans', 'Top Speed': '109.25 mph (175.82 km/h)', 'Price': '$208,000'}
+{'Name': 'Benefactor Schafter LWB (Armored)', 'Class': 'Sedans', 'Top Speed': '108.00 mph (173.81 km/h)', 'Price': '$438,000'}
+{'Name': 'Übermacht Sentinel GTS', 'Class': 'Sports', 'Top Speed': '132.25 mph (212.84 km/h)', 'Price': '$2,172,000'}
+{'Name': 'Nagasaki Shinobi', 'Class': 'Motorcycles', 'Top Speed': '125.25 mph (201.57 km/h)', 'Price': '$2,480,500'}
+{'Name': 'Nagasaki Shotaro', 'Class': 'Motorcycles', 'Top Speed': '123.75 mph (199.16 km/h)', 'Price': '$2,225,000'}
+{'Name': 'Vapid Stanier', 'Class': 'Sedans', 'Top Speed': '109.00 mph (175.42 km/h)', 'Price': '$10,000'}
+{'Name': 'Grotti Stinger GT', 'Class': 'Sports Classics', 'Top Speed': '112.25 mph (180.65 km/h)', 'Price': '$875,000'}
+{'Name': 'Grotti Stinger TT', 'Class': 'Sports', 'Top Speed': '132.00 mph (212.43 km/h)', 'Price': '$2,380,000'}
+{'Name': 'Benefactor Stirling GT', 'Class': 'Sports, Sports Classics', 'Top Speed': '113.00 mph (181.86 km/h)', 'Price': '$975,000'}
+{'Name': 'Ocelot Swinger', 'Class': 'Sports Classics', 'Top Speed': '117.00 mph (188.29 km/h)', 'Price': '$909,000'}
+{'Name': 'Declasse Tampa GT', 'Class': 'Muscle', 'Top Speed': '130.50 mph (210.02 km/h)', 'Price': '$1,311,000'}
+{'Name': 'Canis Terminus', 'Class': 'Off', 'Top Speed': '119.00 mph (191.51 km/h)', 'Price': '$1,877,500'}
+{'Name': 'Canis Terminus Patrol', 'Class': 'Emergency', 'Top Speed': '119.50 mph (192.32 km/h)', 'Price': '$5,125,000'}
+{'Name': 'Benefactor Terrorbyte', 'Class': 'Commercial, Military', 'Top Speed': '87.50 mph (140.82 km/h)', 'Price': '$1,375,000'}
+{'Name': 'Lampadati Tigon', 'Class': 'Super', 'Top Speed': '125.50 mph (201.97 km/h)', 'Price': '$2,310,000'}
+{'Name': 'Pegassi Torero', 'Class': 'Sports Classics', 'Top Speed': '116.50 mph (187.49 km/h)', 'Price': '$998,000'}
+{'Name': 'Pegassi Torero XO', 'Class': 'Super', 'Top Speed': '131.50 mph (211.63 km/h)', 'Price': '$2,890,000'}
+{'Name': 'Grotti Turismo Omaggio', 'Class': 'Super', 'Top Speed': '122.50 mph (197.14 km/h)', 'Price': '$2,845,000'}
+{'Name': 'Progen Tyrus', 'Class': 'Super', 'Top Speed': '123.25 mph (198.35 km/h)', 'Price': '$2,550,000'}
+{'Name': 'Vapid Unmarked Cruiser', 'Class': 'Emergency', 'Top Speed': '111.00 mph (178.64 km/h)', 'Price': '$3,950,000'}
+{'Name': 'Vapid Uranus LozSpeed', 'Class': 'Sports Classics', 'Top Speed': '118.25 mph (190.30 km/h)', 'Price': '$1,140,000'}
+{'Name': 'Albany V-STR', 'Class': 'Sports', 'Top Speed': '125.25 mph (201.57 km/h)', 'Price': '$1,285,000'}
+{'Name': 'Declasse Vigero ZX', 'Class': 'Muscle', 'Top Speed': '125.00 mph (201.17 km/h)', 'Price': '$1,947,000'}
+{'Name': 'Ocelot Virtue', 'Class': 'Super', 'Top Speed': '119.50 mph (192.32 km/h)', 'Price': '$2,980,000'}
+{'Name': 'Lampadati Viseris', 'Class': 'Sports Classics', 'Top Speed': '124.00 mph (199.56 km/h)', 'Price': '$875,000'}
+{'Name': 'Pegassi Weaponized Ignus', 'Class': 'Super', 'Top Speed': '125.00 mph (201.17 km/h)', 'Price': '$4,500,000'}
+{'Name': 'BF Weevil Custom', 'Class': 'Muscle', 'Top Speed': '137.50 mph (221.28 km/h)', 'Price': '$980,000'}
+{'Name': 'Karin Woodlander', 'Class': 'SUVs', 'Top Speed': '112.50 mph (181.05 km/h)', 'Price': '$1,611,000'}
+{'Name': 'Ocelot XA-21', 'Class': 'Super', 'Top Speed': '122.50 mph (197.14 km/h)', 'Price': '$2,375,000'}
+{'Name': 'Benefactor XLS', 'Class': 'SUVs', 'Top Speed': '106.00 mph (170.59 km/h)', 'Price': '$253,000'}
+{'Name': 'Benefactor XLS (Armored)', 'Class': 'SUVs', 'Top Speed': '108.50 mph (174.61 km/h)', 'Price': '$522,000'}
+{'Name': 'Truffade Z-Type', 'Class': 'Sports Classics', 'Top Speed': '127.00 mph (204.39 km/h)', 'Price': '$950,000'}
+{'Name': 'Pegassi Zentorno', 'Class': 'Super', 'Top Speed': '122.25 mph (196.74 km/h)', 'Price': '$725,000'}
+{'Name': 'Übermacht Zion Classic', 'Class': 'Sports Classics', 'Top Speed': '112.75 mph (181.45 km/h)', 'Price': '$812,000'}
+{'Name': 'Western Zombie Chopper', 'Class': 'Motorcycles', 'Top Speed': '113.75 mph (183.06 km/h)', 'Price': '$122,000'}
+{'Name': 'Pegassi Zorrusso', 'Class': 'Super', 'Top Speed': '125.00 mph (201.17 km/h)', 'Price': '$1,925,000'}
+{'Name': 'Fastest Cars', 'Class': None, 'Top Speed': None, 'Price': None}
+{'Name': 'Fastest Motorcycles', 'Class': None, 'Top Speed': None, 'Price': None}
+{'Name': 'Most Expensive Vehicles', 'Class': None, 'Top Speed': None, 'Price': None}
+{'Name': 'Armored Vehicles', 'Class': None, 'Top Speed': None, 'Price': None}
+{'Name': 'Weaponized Vehicles', 'Class': None, 'Top Speed': None, 'Price': None}
+{'Name': 'Special Vehicles', 'Class': None, 'Top Speed': None, 'Price': None}
+{'Name': 'Custom Vehicles', 'Class': None, 'Top Speed': None, 'Price': None}
+{'Name': 'HSW Vehicles', 'Class': None, 'Top Speed': None, 'Price': None}
+{'Name': 'Drift Vehicles', 'Class': None, 'Top Speed': None, 'Price': None}
