@@ -35,7 +35,7 @@ for car in car_content:
 
     car_info = {
         'Name': name.text.strip() if name else None,
-        'Class': vehicle_class,
+        'Vehicle Class': vehicle_class,
         'Top Speed': values[1].text.strip()  if len(values) > 1 else None,
         'Price': values[0].text.strip()  if len(values) > 0  else None,
     }
@@ -56,8 +56,6 @@ with open('output.csv', 'w', newline='') as file:
 
 raw_data  = pd.DataFrame(data)
 
-
-
 df = raw_data.dropna()
 
 df['Price'] = df['Price'].str.replace('$', '', regex=False).str.replace(',', '', regex=False)
@@ -70,12 +68,19 @@ df['Top Speed'] = df['Top Speed'].astype(float).round(2)
 
 df.rename(columns={
     'Price': 'Price ($)',
-    'Name': 'Car Name',
-    'Top Speed': 'Top Speed (mph)'
+    'Name': 'Vehicle Name',
+    'Top Speed': 'Top Speed (mph)',
+    'Class': 'Vehicle Class',
 }, inplace=True)
 
+df.sort_values(by=['Vehicle Class', 'Vehicle Name'], ascending=True, inplace=True)
+df.reset_index(drop=True,inplace=True)
 
 
-print(df.to_string())
+# print(df.to_string())
 
 ''' ANALYZE'''
+print(df.sort_values(by='Top Speed (mph)', ascending=False).head(10))
+
+''' STORE '''
+df.to_csv('results.csv', index=False)

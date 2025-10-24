@@ -1,140 +1,140 @@
-                                Car Name                    Class  Top Speed (mph)  Price ($)
-0                                Obey 9F                   Sports           121.25   120000.0
-1                         Obey 9F Cabrio                   Sports           121.25   130000.0
-2                               Obey 10F                   Sports           126.00  1675000.0
-3                      Obey 10F Widebody                   Sports           128.00   575000.0
-4                             Annis 300R                   Sports           120.00  2075000.0
-5                            Pfister 811                    Super           130.75  1135000.0
-6                            Dinka Akuma              Motorcycles           121.25     9000.0
-7                         Vapid Aleutian                     SUVs           113.25  1835000.0
-8        Gallivanter Baller LE (Armored)                     SUVs           108.50   374000.0
-9    Gallivanter Baller LE LWB (Armored)                     SUVs           108.00   513000.0
-10               Gallivanter Baller ST-D                     SUVs           118.25  1715000.0
-11                   Bravado Banshee GTS                   Sports           138.00  1989500.0
-12                      Pegassi Bati 801              Motorcycles           135.00    15000.0
-13                    Pegassi Bati 801RR              Motorcycles           135.00    15000.0
-14                    Classique Broadway                   Muscle           100.00   925000.0
-15                   Bravado Buffalo EVX                   Muscle           119.00  2140000.0
-16                     Bravado Buffalo S                   Sports           113.00    96000.0
-17                   Bravado Buffalo STX                   Muscle           126.00  2150000.0
-18                      Karin Calico GTF           Sports, Tuners           121.00  1995000.0
-19                    Vapid Caracara 4x4                      Off           103.25   875000.0
-20                Vapid Caracara Pursuit                Emergency           104.75  5335000.0
-21                   Dewbauchee Champion                    Super           125.00  3750000.0
-22                       Dinka Chavos V6                   Sedans           115.50  1420000.0
-23                         RUNE Cheburek          Sports Classics           108.50   145000.0
-24                      Enus Cognoscenti                   Sedans           110.50   254000.0
-25            Enus Cognoscenti (Armored)                   Sedans           110.25   558000.0
-26                   Enus Cognoscenti 55                   Sedans           113.25   154000.0
-27         Enus Cognoscenti 55 (Armored)                   Sedans           113.00   396000.0
-28                         Pfister Comet                   Sports           119.75   100000.0
-29                      Pfister Comet S2           Sports, Tuners           122.50  1878000.0
-30               Pfister Comet S2 Cabrio                   Sports           129.25  1797000.0
-31                      Pfister Comet SR                   Sports           122.00  1145000.0
-32                       Vapid Contender                     SUVs           109.00   250000.0
-33         Invetero Coquette D10 Pursuit                Emergency           133.75  5620000.0
-34                  Invetero Coquette D5                   Sports           130.75  1730000.0
-35                          Coil Cyclone                    Super           116.00  1890000.0
-36                            Enus Deity                   Sedans           115.00  1845000.0
-37                Principe Deveste Eight                    Super           131.25  1795000.0
-38                      Schyster Deviant                   Muscle           108.00   512000.0
-39                       Vapid Dominator                   Muscle           120.75    35000.0
-40                   Vapid Dominator ASP           Muscle, Tuners           118.75  1775000.0
-41        Vapid Dominator FX Interceptor                Emergency           124.00  4950000.0
-42                   Vapid Dominator GTT           Muscle, Tuners           115.00  1220000.0
-43                Bravado Dorado Cruiser                Emergency           112.75  5005000.0
-44                        Dinka Double-T              Motorcycles           118.00    12000.0
-46                 Benefactor Dubsta 6x6                      Off           104.25   249000.0
-47                  Imponte Duke O'Death                   Muscle           114.50   665000.0
-48                    Overflod Entity MT                    Super           131.25  2355000.0
-49                     Bollokan Envisage                   Sports           122.00  2472000.0
-50                          Emperor ETR1                    Super           121.25  1995000.0
-51                        Willard Eudora                   Muscle           109.00  1250000.0
-52                           Annis Euros           Sports, Tuners           117.25  1800000.0
-53                       Karin Everon RS                     SUVs           125.75  1665000.0
-54                    Vapid Firebolt ASP                      Off           113.50  1894500.0
-55                        Karin Futo GTX           Sports, Tuners           112.50  1590000.0
-56             Bravado Gauntlet Hellfire                   Muscle           125.00   745000.0
-57                            Progen GP1                    Super           123.75  1260000.0
-58               Declasse Granger 3600LX                     SUVs            97.50  2000000.0
-59                     Bravado Greenwood                   Muscle           119.50  1465000.0
-60             Bravado Greenwood Cruiser                Emergency           121.50  4910000.0
-61                       Shitzu Hakuchou              Motorcycles           134.00    82000.0
-62             Shitzu Hakuchou Drag Bike              Motorcycles           126.50   976000.0
-63                           Annis Hardy                   Sedans           128.25  1380000.0
-64                         Annis Hellion                      Off           104.00   835000.0
-65                         Albany Hermes                   Muscle           115.50   535000.0
-66                      Overflod Imorgon                   Sports           106.75  2165000.0
-67                   Declasse Impaler LX                   Muscle           115.50  1465000.0
-68           Declasse Impaler LX Cruiser                Emergency           117.00  4800000.0
-69           Declasse Impaler SZ Cruiser                Emergency           118.25  4720000.0
-70                      Pegassi Infernus                    Super           118.00   440000.0
-71                    Dewbauchee JB 700W          Sports Classics           120.00  1470000.0
-72                       Dinka Jester RR           Sports, Tuners           126.00  1970000.0
-73                          Enus Jubilee                     SUVs           116.25  1650000.0
-74                        Ocelot Jugular                   Sports           125.00  1225000.0
-75                    Benefactor Krieger                    Super           128.00  2875000.0
-76                          Karin Kuruma                   Sports           113.00   126350.0
-77                    Penaud La Coureuse                   Sports           114.50  1990000.0
-78                         Ocelot Locust                   Sports           119.50  1625000.0
-79       Dinka LSCM Jester RR (Widebody)           Sports, Tuners           118.25  2290000.0
-80                Maibatsu Manchez Scout         Motorcycles, Off           139.75   225000.0
-81                  Maibatsu MonstroCiti                      Off           109.75  1485000.0
-82                            Vysser Neo                   Sports           125.25  1875000.0
-83                       Obey Omnis e-GT                   Sports           111.50  1795000.0
-84              Willard Outreach Faction                Emergency           114.75  4150000.0
-85                        Enus Paragon R                   Sports           123.00   905000.0
-86                        Enus Paragon S                   Sports           127.50  2010000.0
-87              Mammoth Patriot Mil-Spec                      Off            96.00  1710000.0
-88                  Overflod Pipistrello                    Super           117.75  2950000.0
-89                   Western Police Bike   Motorcycles, Emergency           156.75  4960000.0
-90   Bravado Police Gauntlet Interceptor                Emergency           122.00  5420000.0
-91       Vapid Police Stanier LE Cruiser                Emergency           114.25  4690000.0
-92                           Coil Raiden                   Sports           113.25  1375000.0
-93                 Dewbauchee Rapid GT X                   Sports           132.25  2705500.0
-94                           Annis RE-7B                    Super           123.50  2475000.0
-95                        Western Reever              Motorcycles           163.00  1900000.0
-96                           Annis Remus           Sports, Tuners           115.50  1370000.0
-97                    Übermacht Revolter                   Sports           116.75  1610000.0
-98                  Bravado Rumpo Custom                     Vans            98.75   130000.0
-99                           Annis S80RR                    Super           123.00  2575000.0
-100                     Maibatsu Sanchez         Motorcycles, Off           119.50     8000.0
-101            Maibatsu Sanchez (Livery)         Motorcycles, Off           119.50     7000.0
-102                       Annis Savestra          Sports Classics           118.00   990000.0
-103                        Übermacht SC1                    Super           121.75  1603000.0
-104              Benefactor Schafter LWB           Sports, Sedans           109.25   208000.0
-105    Benefactor Schafter LWB (Armored)                   Sedans           108.00   438000.0
-106               Übermacht Sentinel GTS                   Sports           132.25  2172000.0
-107                     Nagasaki Shinobi              Motorcycles           125.25  2480500.0
-108                     Nagasaki Shotaro              Motorcycles           123.75  2225000.0
-109                        Vapid Stanier                   Sedans           109.00    10000.0
-110                    Grotti Stinger GT          Sports Classics           112.25   875000.0
-111                    Grotti Stinger TT                   Sports           132.00  2380000.0
-112               Benefactor Stirling GT  Sports, Sports Classics           113.00   975000.0
-113                       Ocelot Swinger          Sports Classics           117.00   909000.0
-114                    Declasse Tampa GT                   Muscle           130.50  1311000.0
-115                       Canis Terminus                      Off           119.00  1877500.0
-116                Canis Terminus Patrol                Emergency           119.50  5125000.0
-117                Benefactor Terrorbyte     Commercial, Military            87.50  1375000.0
-118                      Lampadati Tigon                    Super           125.50  2310000.0
-119                       Pegassi Torero          Sports Classics           116.50   998000.0
-120                    Pegassi Torero XO                    Super           131.50  2890000.0
-121               Grotti Turismo Omaggio                    Super           122.50  2845000.0
-122                         Progen Tyrus                    Super           123.25  2550000.0
-123               Vapid Unmarked Cruiser                Emergency           111.00  3950000.0
-124                Vapid Uranus LozSpeed          Sports Classics           118.25  1140000.0
-125                         Albany V-STR                   Sports           125.25  1285000.0
-126                   Declasse Vigero ZX                   Muscle           125.00  1947000.0
-127                        Ocelot Virtue                    Super           119.50  2980000.0
-128                    Lampadati Viseris          Sports Classics           124.00   875000.0
-129             Pegassi Weaponized Ignus                    Super           125.00  4500000.0
-130                     BF Weevil Custom                   Muscle           137.50   980000.0
-131                     Karin Woodlander                     SUVs           112.50  1611000.0
-132                         Ocelot XA-21                    Super           122.50  2375000.0
-133                       Benefactor XLS                     SUVs           106.00   253000.0
-134             Benefactor XLS (Armored)                     SUVs           108.50   522000.0
-135                      Truffade Z-Type          Sports Classics           127.00   950000.0
-136                     Pegassi Zentorno                    Super           122.25   725000.0
-137               Übermacht Zion Classic          Sports Classics           112.75   812000.0
-138               Western Zombie Chopper              Motorcycles           113.75   122000.0
-139                     Pegassi Zorrusso                    Super           125.00  1925000.0
+                                    Name                    Class                 Top Speed       Price
+0                                Obey 9F                   Sports  121.25 mph (195.13 km/h)    $120,000
+1                         Obey 9F Cabrio                   Sports  121.25 mph (195.13 km/h)    $130,000
+2                               Obey 10F                   Sports  126.00 mph (202.78 km/h)  $1,675,000
+3                      Obey 10F Widebody                   Sports  128.00 mph (206.00 km/h)    $575,000
+4                             Annis 300R                   Sports  120.00 mph (193.12 km/h)  $2,075,000
+5                            Pfister 811                    Super  130.75 mph (210.42 km/h)  $1,135,000
+6                            Dinka Akuma              Motorcycles  121.25 mph (195.13 km/h)      $9,000
+7                         Vapid Aleutian                     SUVs  113.25 mph (182.26 km/h)  $1,835,000
+8        Gallivanter Baller LE (Armored)                     SUVs  108.50 mph (174.61 km/h)    $374,000
+9    Gallivanter Baller LE LWB (Armored)                     SUVs  108.00 mph (173.81 km/h)    $513,000
+10               Gallivanter Baller ST-D                     SUVs  118.25 mph (190.30 km/h)  $1,715,000
+11                   Bravado Banshee GTS                   Sports  138.00 mph (222.09 km/h)  $1,989,500
+12                      Pegassi Bati 801              Motorcycles  135.00 mph (217.26 km/h)     $15,000
+13                    Pegassi Bati 801RR              Motorcycles  135.00 mph (217.26 km/h)     $15,000
+14                    Classique Broadway                   Muscle  100.00 mph (160.93 km/h)    $925,000
+15                   Bravado Buffalo EVX                   Muscle  119.00 mph (191.51 km/h)  $2,140,000
+16                     Bravado Buffalo S                   Sports  113.00 mph (181.86 km/h)     $96,000
+17                   Bravado Buffalo STX                   Muscle  126.00 mph (202.78 km/h)  $2,150,000
+18                      Karin Calico GTF           Sports, Tuners  121.00 mph (194.73 km/h)  $1,995,000
+19                    Vapid Caracara 4x4                      Off  103.25 mph (166.16 km/h)    $875,000
+20                Vapid Caracara Pursuit                Emergency  104.75 mph (168.58 km/h)  $5,335,000
+21                   Dewbauchee Champion                    Super  125.00 mph (201.17 km/h)  $3,750,000
+22                       Dinka Chavos V6                   Sedans  115.50 mph (185.88 km/h)  $1,420,000
+23                         RUNE Cheburek          Sports Classics  108.50 mph (174.61 km/h)    $145,000
+24                      Enus Cognoscenti                   Sedans  110.50 mph (177.83 km/h)    $254,000
+25            Enus Cognoscenti (Armored)                   Sedans  110.25 mph (177.43 km/h)    $558,000
+26                   Enus Cognoscenti 55                   Sedans  113.25 mph (182.26 km/h)    $154,000
+27         Enus Cognoscenti 55 (Armored)                   Sedans  113.00 mph (181.86 km/h)    $396,000
+28                         Pfister Comet                   Sports  119.75 mph (192.72 km/h)    $100,000
+29                      Pfister Comet S2           Sports, Tuners  122.50 mph (197.14 km/h)  $1,878,000
+30               Pfister Comet S2 Cabrio                   Sports  129.25 mph (208.01 km/h)  $1,797,000
+31                      Pfister Comet SR                   Sports  122.00 mph (196.34 km/h)  $1,145,000
+32                       Vapid Contender                     SUVs  109.00 mph (175.42 km/h)    $250,000
+33         Invetero Coquette D10 Pursuit                Emergency  133.75 mph (215.25 km/h)  $5,620,000
+34                  Invetero Coquette D5                   Sports  130.75 mph (210.42 km/h)  $1,730,000
+35                          Coil Cyclone                    Super  116.00 mph (186.68 km/h)  $1,890,000
+36                            Enus Deity                   Sedans  115.00 mph (185.07 km/h)  $1,845,000
+37                Principe Deveste Eight                    Super  131.25 mph (211.23 km/h)  $1,795,000
+38                      Schyster Deviant                   Muscle  108.00 mph (173.81 km/h)    $512,000
+39                       Vapid Dominator                   Muscle  120.75 mph (194.33 km/h)     $35,000
+40                   Vapid Dominator ASP           Muscle, Tuners  118.75 mph (191.11 km/h)  $1,775,000
+41        Vapid Dominator FX Interceptor                Emergency  124.00 mph (199.56 km/h)  $4,950,000
+42                   Vapid Dominator GTT           Muscle, Tuners  115.00 mph (185.07 km/h)  $1,220,000
+43                Bravado Dorado Cruiser                Emergency  112.75 mph (181.45 km/h)  $5,005,000
+44                        Dinka Double-T              Motorcycles  118.00 mph (189.90 km/h)     $12,000
+46                 Benefactor Dubsta 6x6                      Off  104.25 mph (167.77 km/h)    $249,000
+47                  Imponte Duke O'Death                   Muscle  114.50 mph (184.27 km/h)    $665,000
+48                    Overflod Entity MT                    Super  131.25 mph (211.23 km/h)  $2,355,000
+49                     Bollokan Envisage                   Sports  122.00 mph (196.34 km/h)  $2,472,000
+50                          Emperor ETR1                    Super  121.25 mph (195.13 km/h)  $1,995,000
+51                        Willard Eudora                   Muscle  109.00 mph (175.42 km/h)  $1,250,000
+52                           Annis Euros           Sports, Tuners  117.25 mph (188.70 km/h)  $1,800,000
+53                       Karin Everon RS                     SUVs  125.75 mph (202.37 km/h)  $1,665,000
+54                    Vapid Firebolt ASP                      Off  113.50 mph (182.66 km/h)  $1,894,500
+55                        Karin Futo GTX           Sports, Tuners  112.50 mph (181.05 km/h)  $1,590,000
+56             Bravado Gauntlet Hellfire                   Muscle  125.00 mph (201.17 km/h)    $745,000
+57                            Progen GP1                    Super  123.75 mph (199.16 km/h)  $1,260,000
+58               Declasse Granger 3600LX                     SUVs   97.50 mph (156.91 km/h)  $2,000,000
+59                     Bravado Greenwood                   Muscle  119.50 mph (192.32 km/h)  $1,465,000
+60             Bravado Greenwood Cruiser                Emergency  121.50 mph (195.53 km/h)  $4,910,000
+61                       Shitzu Hakuchou              Motorcycles  134.00 mph (215.65 km/h)     $82,000
+62             Shitzu Hakuchou Drag Bike              Motorcycles  126.50 mph (203.58 km/h)    $976,000
+63                           Annis Hardy                   Sedans  128.25 mph (206.40 km/h)  $1,380,000
+64                         Annis Hellion                      Off  104.00 mph (167.37 km/h)    $835,000
+65                         Albany Hermes                   Muscle  115.50 mph (185.88 km/h)    $535,000
+66                      Overflod Imorgon                   Sports  106.75 mph (171.80 km/h)  $2,165,000
+67                   Declasse Impaler LX                   Muscle  115.50 mph (185.88 km/h)  $1,465,000
+68           Declasse Impaler LX Cruiser                Emergency  117.00 mph (188.29 km/h)  $4,800,000
+69           Declasse Impaler SZ Cruiser                Emergency  118.25 mph (190.30 km/h)  $4,720,000
+70                      Pegassi Infernus                    Super  118.00 mph (189.90 km/h)    $440,000
+71                    Dewbauchee JB 700W          Sports Classics  120.00 mph (193.12 km/h)  $1,470,000
+72                       Dinka Jester RR           Sports, Tuners  126.00 mph (202.78 km/h)  $1,970,000
+73                          Enus Jubilee                     SUVs  116.25 mph (187.09 km/h)  $1,650,000
+74                        Ocelot Jugular                   Sports  125.00 mph (201.17 km/h)  $1,225,000
+75                    Benefactor Krieger                    Super  128.00 mph (206.00 km/h)  $2,875,000
+76                          Karin Kuruma                   Sports  113.00 mph (181.86 km/h)    $126,350
+77                    Penaud La Coureuse                   Sports  114.50 mph (184.27 km/h)  $1,990,000
+78                         Ocelot Locust                   Sports  119.50 mph (192.32 km/h)  $1,625,000
+79       Dinka LSCM Jester RR (Widebody)           Sports, Tuners  118.25 mph (190.30 km/h)  $2,290,000
+80                Maibatsu Manchez Scout         Motorcycles, Off  139.75 mph (224.91 km/h)    $225,000
+81                  Maibatsu MonstroCiti                      Off  109.75 mph (176.63 km/h)  $1,485,000
+82                            Vysser Neo                   Sports  125.25 mph (201.57 km/h)  $1,875,000
+83                       Obey Omnis e-GT                   Sports  111.50 mph (179.44 km/h)  $1,795,000
+84              Willard Outreach Faction                Emergency  114.75 mph (184.67 km/h)  $4,150,000
+85                        Enus Paragon R                   Sports  123.00 mph (197.95 km/h)    $905,000
+86                        Enus Paragon S                   Sports  127.50 mph (205.19 km/h)  $2,010,000
+87              Mammoth Patriot Mil-Spec                      Off   96.00 mph (154.50 km/h)  $1,710,000
+88                  Overflod Pipistrello                    Super  117.75 mph (189.50 km/h)  $2,950,000
+89                   Western Police Bike   Motorcycles, Emergency  156.75 mph (252.26 km/h)  $4,960,000
+90   Bravado Police Gauntlet Interceptor                Emergency  122.00 mph (196.34 km/h)  $5,420,000
+91       Vapid Police Stanier LE Cruiser                Emergency  114.25 mph (183.87 km/h)  $4,690,000
+92                           Coil Raiden                   Sports  113.25 mph (182.26 km/h)  $1,375,000
+93                 Dewbauchee Rapid GT X                   Sports  132.25 mph (212.84 km/h)  $2,705,500
+94                           Annis RE-7B                    Super  123.50 mph (198.75 km/h)  $2,475,000
+95                        Western Reever              Motorcycles  163.00 mph (262.32 km/h)  $1,900,000
+96                           Annis Remus           Sports, Tuners  115.50 mph (185.88 km/h)  $1,370,000
+97                    Übermacht Revolter                   Sports  116.75 mph (187.89 km/h)  $1,610,000
+98                  Bravado Rumpo Custom                     Vans   98.75 mph (158.92 km/h)    $130,000
+99                           Annis S80RR                    Super  123.00 mph (197.95 km/h)  $2,575,000
+100                     Maibatsu Sanchez         Motorcycles, Off  119.50 mph (192.32 km/h)      $8,000
+101            Maibatsu Sanchez (Livery)         Motorcycles, Off  119.50 mph (192.32 km/h)      $7,000
+102                       Annis Savestra          Sports Classics  118.00 mph (189.90 km/h)    $990,000
+103                        Übermacht SC1                    Super  121.75 mph (195.94 km/h)  $1,603,000
+104              Benefactor Schafter LWB           Sports, Sedans  109.25 mph (175.82 km/h)    $208,000
+105    Benefactor Schafter LWB (Armored)                   Sedans  108.00 mph (173.81 km/h)    $438,000
+106               Übermacht Sentinel GTS                   Sports  132.25 mph (212.84 km/h)  $2,172,000
+107                     Nagasaki Shinobi              Motorcycles  125.25 mph (201.57 km/h)  $2,480,500
+108                     Nagasaki Shotaro              Motorcycles  123.75 mph (199.16 km/h)  $2,225,000
+109                        Vapid Stanier                   Sedans  109.00 mph (175.42 km/h)     $10,000
+110                    Grotti Stinger GT          Sports Classics  112.25 mph (180.65 km/h)    $875,000
+111                    Grotti Stinger TT                   Sports  132.00 mph (212.43 km/h)  $2,380,000
+112               Benefactor Stirling GT  Sports, Sports Classics  113.00 mph (181.86 km/h)    $975,000
+113                       Ocelot Swinger          Sports Classics  117.00 mph (188.29 km/h)    $909,000
+114                    Declasse Tampa GT                   Muscle  130.50 mph (210.02 km/h)  $1,311,000
+115                       Canis Terminus                      Off  119.00 mph (191.51 km/h)  $1,877,500
+116                Canis Terminus Patrol                Emergency  119.50 mph (192.32 km/h)  $5,125,000
+117                Benefactor Terrorbyte     Commercial, Military   87.50 mph (140.82 km/h)  $1,375,000
+118                      Lampadati Tigon                    Super  125.50 mph (201.97 km/h)  $2,310,000
+119                       Pegassi Torero          Sports Classics  116.50 mph (187.49 km/h)    $998,000
+120                    Pegassi Torero XO                    Super  131.50 mph (211.63 km/h)  $2,890,000
+121               Grotti Turismo Omaggio                    Super  122.50 mph (197.14 km/h)  $2,845,000
+122                         Progen Tyrus                    Super  123.25 mph (198.35 km/h)  $2,550,000
+123               Vapid Unmarked Cruiser                Emergency  111.00 mph (178.64 km/h)  $3,950,000
+124                Vapid Uranus LozSpeed          Sports Classics  118.25 mph (190.30 km/h)  $1,140,000
+125                         Albany V-STR                   Sports  125.25 mph (201.57 km/h)  $1,285,000
+126                   Declasse Vigero ZX                   Muscle  125.00 mph (201.17 km/h)  $1,947,000
+127                        Ocelot Virtue                    Super  119.50 mph (192.32 km/h)  $2,980,000
+128                    Lampadati Viseris          Sports Classics  124.00 mph (199.56 km/h)    $875,000
+129             Pegassi Weaponized Ignus                    Super  125.00 mph (201.17 km/h)  $4,500,000
+130                     BF Weevil Custom                   Muscle  137.50 mph (221.28 km/h)    $980,000
+131                     Karin Woodlander                     SUVs  112.50 mph (181.05 km/h)  $1,611,000
+132                         Ocelot XA-21                    Super  122.50 mph (197.14 km/h)  $2,375,000
+133                       Benefactor XLS                     SUVs  106.00 mph (170.59 km/h)    $253,000
+134             Benefactor XLS (Armored)                     SUVs  108.50 mph (174.61 km/h)    $522,000
+135                      Truffade Z-Type          Sports Classics  127.00 mph (204.39 km/h)    $950,000
+136                     Pegassi Zentorno                    Super  122.25 mph (196.74 km/h)    $725,000
+137               Übermacht Zion Classic          Sports Classics  112.75 mph (181.45 km/h)    $812,000
+138               Western Zombie Chopper              Motorcycles  113.75 mph (183.06 km/h)    $122,000
+139                     Pegassi Zorrusso                    Super  125.00 mph (201.17 km/h)  $1,925,000
