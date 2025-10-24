@@ -1,8 +1,6 @@
 import requests 
-import csv
 from bs4 import BeautifulSoup
 import pandas as pd
-
 
 
 ''' SCRAPE '''
@@ -43,12 +41,12 @@ for car in car_content:
     data.append(car_info)
 
 
-fieldnames = list(data[0].keys())
+# fieldnames = list(data[0].keys())
 
-with open('output.csv', 'w', newline='') as file:
-    writer = csv.DictWriter(file, fieldnames=fieldnames)
-    writer.writeheader()
-    writer.writerows(data)
+# with open('output.csv', 'w', newline='') as file:
+#     writer = csv.DictWriter(file, fieldnames=fieldnames)
+#     writer.writeheader()
+#     writer.writerows(data)
 
 
 
@@ -77,10 +75,11 @@ df.sort_values(by=['Vehicle Class', 'Vehicle Name'], ascending=True, inplace=Tru
 df.reset_index(drop=True,inplace=True)
 
 
-# print(df.to_string())
-
-''' ANALYZE'''
-print(df.sort_values(by='Top Speed (mph)', ascending=False).head(10))
-
 ''' STORE '''
-df.to_csv('results.csv', index=False)
+df.to_csv('gta_jammers.csv', index=False)
+
+
+''' RESULTS '''
+results = df.sort_values(by='Top Speed (mph)', ascending=False)
+# print(df.to_markdown(floatfmt='.2f'))
+print(results.head(10).to_string())

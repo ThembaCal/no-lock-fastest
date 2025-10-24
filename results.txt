@@ -1,0 +1,11 @@
+                     Vehicle Name           Vehicle Class  Top Speed (mph)  Price ($)
+21                 Western Reever             Motorcycles           163.00  1900000.0
+23            Western Police Bike  Motorcycles, Emergency           156.75  4960000.0
+24         Maibatsu Manchez Scout        Motorcycles, Off           139.75   225000.0
+73            Bravado Banshee GTS                  Sports           138.00  1989500.0
+28               BF Weevil Custom                  Muscle           137.50   980000.0
+18             Pegassi Bati 801RR             Motorcycles           135.00    15000.0
+17               Pegassi Bati 801             Motorcycles           135.00    15000.0
+19                Shitzu Hakuchou             Motorcycles           134.00    82000.0
+7   Invetero Coquette D10 Pursuit               Emergency           133.75  5620000.0
+76          Dewbauchee Rapid GT X                  Sports           132.25  2705500.0

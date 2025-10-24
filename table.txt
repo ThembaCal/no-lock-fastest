@@ -1,0 +1,141 @@
+|     | Vehicle Name                        | Vehicle Class           |   Top Speed (mph) |   Price ($) |
+|----:|:------------------------------------|:------------------------|------------------:|------------:|
+|   0 | Benefactor Terrorbyte               | Commercial, Military    |             87.50 |  1375000.00 |
+|   1 | Bravado Dorado Cruiser              | Emergency               |            112.75 |  5005000.00 |
+|   2 | Bravado Greenwood Cruiser           | Emergency               |            121.50 |  4910000.00 |
+|   3 | Bravado Police Gauntlet Interceptor | Emergency               |            122.00 |  5420000.00 |
+|   4 | Canis Terminus Patrol               | Emergency               |            119.50 |  5125000.00 |
+|   5 | Declasse Impaler LX Cruiser         | Emergency               |            117.00 |  4800000.00 |
+|   6 | Declasse Impaler SZ Cruiser         | Emergency               |            118.25 |  4720000.00 |
+|   7 | Invetero Coquette D10 Pursuit       | Emergency               |            133.75 |  5620000.00 |
+|   8 | Vapid Caracara Pursuit              | Emergency               |            104.75 |  5335000.00 |
+|   9 | Vapid Dominator FX Interceptor      | Emergency               |            124.00 |  4950000.00 |
+|  10 | Vapid Police Stanier LE Cruiser     | Emergency               |            114.25 |  4690000.00 |
+|  11 | Vapid Unmarked Cruiser              | Emergency               |            111.00 |  3950000.00 |
+|  12 | Willard Outreach Faction            | Emergency               |            114.75 |  4150000.00 |
+|  13 | Dinka Akuma                         | Motorcycles             |            121.25 |     9000.00 |
+|  14 | Dinka Double-T                      | Motorcycles             |            118.00 |    12000.00 |
+|  15 | Nagasaki Shinobi                    | Motorcycles             |            125.25 |  2480500.00 |
+|  16 | Nagasaki Shotaro                    | Motorcycles             |            123.75 |  2225000.00 |
+|  17 | Pegassi Bati 801                    | Motorcycles             |            135.00 |    15000.00 |
+|  18 | Pegassi Bati 801RR                  | Motorcycles             |            135.00 |    15000.00 |
+|  19 | Shitzu Hakuchou                     | Motorcycles             |            134.00 |    82000.00 |
+|  20 | Shitzu Hakuchou Drag Bike           | Motorcycles             |            126.50 |   976000.00 |
+|  21 | Western Reever                      | Motorcycles             |            163.00 |  1900000.00 |
+|  22 | Western Zombie Chopper              | Motorcycles             |            113.75 |   122000.00 |
+|  23 | Western Police Bike                 | Motorcycles, Emergency  |            156.75 |  4960000.00 |
+|  24 | Maibatsu Manchez Scout              | Motorcycles, Off        |            139.75 |   225000.00 |
+|  25 | Maibatsu Sanchez                    | Motorcycles, Off        |            119.50 |     8000.00 |
+|  26 | Maibatsu Sanchez (Livery)           | Motorcycles, Off        |            119.50 |     7000.00 |
+|  27 | Albany Hermes                       | Muscle                  |            115.50 |   535000.00 |
+|  28 | BF Weevil Custom                    | Muscle                  |            137.50 |   980000.00 |
+|  29 | Bravado Buffalo EVX                 | Muscle                  |            119.00 |  2140000.00 |
+|  30 | Bravado Buffalo STX                 | Muscle                  |            126.00 |  2150000.00 |
+|  31 | Bravado Gauntlet Hellfire           | Muscle                  |            125.00 |   745000.00 |
+|  32 | Bravado Greenwood                   | Muscle                  |            119.50 |  1465000.00 |
+|  33 | Classique Broadway                  | Muscle                  |            100.00 |   925000.00 |
+|  34 | Declasse Impaler LX                 | Muscle                  |            115.50 |  1465000.00 |
+|  35 | Declasse Tampa GT                   | Muscle                  |            130.50 |  1311000.00 |
+|  36 | Declasse Vigero ZX                  | Muscle                  |            125.00 |  1947000.00 |
+|  37 | Imponte Duke O'Death                | Muscle                  |            114.50 |   665000.00 |
+|  38 | Schyster Deviant                    | Muscle                  |            108.00 |   512000.00 |
+|  39 | Vapid Dominator                     | Muscle                  |            120.75 |    35000.00 |
+|  40 | Willard Eudora                      | Muscle                  |            109.00 |  1250000.00 |
+|  41 | Vapid Dominator ASP                 | Muscle, Tuners          |            118.75 |  1775000.00 |
+|  42 | Vapid Dominator GTT                 | Muscle, Tuners          |            115.00 |  1220000.00 |
+|  43 | Annis Hellion                       | Off                     |            104.00 |   835000.00 |
+|  44 | Benefactor Dubsta 6x6               | Off                     |            104.25 |   249000.00 |
+|  45 | Canis Terminus                      | Off                     |            119.00 |  1877500.00 |
+|  46 | Maibatsu MonstroCiti                | Off                     |            109.75 |  1485000.00 |
+|  47 | Mammoth Patriot Mil-Spec            | Off                     |             96.00 |  1710000.00 |
+|  48 | Vapid Caracara 4x4                  | Off                     |            103.25 |   875000.00 |
+|  49 | Vapid Firebolt ASP                  | Off                     |            113.50 |  1894500.00 |
+|  50 | Benefactor XLS                      | SUVs                    |            106.00 |   253000.00 |
+|  51 | Benefactor XLS (Armored)            | SUVs                    |            108.50 |   522000.00 |
+|  52 | Declasse Granger 3600LX             | SUVs                    |             97.50 |  2000000.00 |
+|  53 | Enus Jubilee                        | SUVs                    |            116.25 |  1650000.00 |
+|  54 | Gallivanter Baller LE (Armored)     | SUVs                    |            108.50 |   374000.00 |
+|  55 | Gallivanter Baller LE LWB (Armored) | SUVs                    |            108.00 |   513000.00 |
+|  56 | Gallivanter Baller ST-D             | SUVs                    |            118.25 |  1715000.00 |
+|  57 | Karin Everon RS                     | SUVs                    |            125.75 |  1665000.00 |
+|  58 | Karin Woodlander                    | SUVs                    |            112.50 |  1611000.00 |
+|  59 | Vapid Aleutian                      | SUVs                    |            113.25 |  1835000.00 |
+|  60 | Vapid Contender                     | SUVs                    |            109.00 |   250000.00 |
+|  61 | Annis Hardy                         | Sedans                  |            128.25 |  1380000.00 |
+|  62 | Benefactor Schafter LWB (Armored)   | Sedans                  |            108.00 |   438000.00 |
+|  63 | Dinka Chavos V6                     | Sedans                  |            115.50 |  1420000.00 |
+|  64 | Enus Cognoscenti                    | Sedans                  |            110.50 |   254000.00 |
+|  65 | Enus Cognoscenti (Armored)          | Sedans                  |            110.25 |   558000.00 |
+|  66 | Enus Cognoscenti 55                 | Sedans                  |            113.25 |   154000.00 |
+|  67 | Enus Cognoscenti 55 (Armored)       | Sedans                  |            113.00 |   396000.00 |
+|  68 | Enus Deity                          | Sedans                  |            115.00 |  1845000.00 |
+|  69 | Vapid Stanier                       | Sedans                  |            109.00 |    10000.00 |
+|  70 | Albany V-STR                        | Sports                  |            125.25 |  1285000.00 |
+|  71 | Annis 300R                          | Sports                  |            120.00 |  2075000.00 |
+|  72 | Bollokan Envisage                   | Sports                  |            122.00 |  2472000.00 |
+|  73 | Bravado Banshee GTS                 | Sports                  |            138.00 |  1989500.00 |
+|  74 | Bravado Buffalo S                   | Sports                  |            113.00 |    96000.00 |
+|  75 | Coil Raiden                         | Sports                  |            113.25 |  1375000.00 |
+|  76 | Dewbauchee Rapid GT X               | Sports                  |            132.25 |  2705500.00 |
+|  77 | Enus Paragon R                      | Sports                  |            123.00 |   905000.00 |
+|  78 | Enus Paragon S                      | Sports                  |            127.50 |  2010000.00 |
+|  79 | Grotti Stinger TT                   | Sports                  |            132.00 |  2380000.00 |
+|  80 | Invetero Coquette D5                | Sports                  |            130.75 |  1730000.00 |
+|  81 | Karin Kuruma                        | Sports                  |            113.00 |   126350.00 |
+|  82 | Obey 10F                            | Sports                  |            126.00 |  1675000.00 |
+|  83 | Obey 10F Widebody                   | Sports                  |            128.00 |   575000.00 |
+|  84 | Obey 9F                             | Sports                  |            121.25 |   120000.00 |
+|  85 | Obey 9F Cabrio                      | Sports                  |            121.25 |   130000.00 |
+|  86 | Obey Omnis e-GT                     | Sports                  |            111.50 |  1795000.00 |
+|  87 | Ocelot Jugular                      | Sports                  |            125.00 |  1225000.00 |
+|  88 | Ocelot Locust                       | Sports                  |            119.50 |  1625000.00 |
+|  89 | Overflod Imorgon                    | Sports                  |            106.75 |  2165000.00 |
+|  90 | Penaud La Coureuse                  | Sports                  |            114.50 |  1990000.00 |
+|  91 | Pfister Comet                       | Sports                  |            119.75 |   100000.00 |
+|  92 | Pfister Comet S2 Cabrio             | Sports                  |            129.25 |  1797000.00 |
+|  93 | Pfister Comet SR                    | Sports                  |            122.00 |  1145000.00 |
+|  94 | Vysser Neo                          | Sports                  |            125.25 |  1875000.00 |
+|  95 | Übermacht Revolter                  | Sports                  |            116.75 |  1610000.00 |
+|  96 | Übermacht Sentinel GTS              | Sports                  |            132.25 |  2172000.00 |
+|  97 | Annis Savestra                      | Sports Classics         |            118.00 |   990000.00 |
+|  98 | Dewbauchee JB 700W                  | Sports Classics         |            120.00 |  1470000.00 |
+|  99 | Grotti Stinger GT                   | Sports Classics         |            112.25 |   875000.00 |
+| 100 | Lampadati Viseris                   | Sports Classics         |            124.00 |   875000.00 |
+| 101 | Ocelot Swinger                      | Sports Classics         |            117.00 |   909000.00 |
+| 102 | Pegassi Torero                      | Sports Classics         |            116.50 |   998000.00 |
+| 103 | RUNE Cheburek                       | Sports Classics         |            108.50 |   145000.00 |
+| 104 | Truffade Z-Type                     | Sports Classics         |            127.00 |   950000.00 |
+| 105 | Vapid Uranus LozSpeed               | Sports Classics         |            118.25 |  1140000.00 |
+| 106 | Übermacht Zion Classic              | Sports Classics         |            112.75 |   812000.00 |
+| 107 | Benefactor Schafter LWB             | Sports, Sedans          |            109.25 |   208000.00 |
+| 108 | Benefactor Stirling GT              | Sports, Sports Classics |            113.00 |   975000.00 |
+| 109 | Annis Euros                         | Sports, Tuners          |            117.25 |  1800000.00 |
+| 110 | Annis Remus                         | Sports, Tuners          |            115.50 |  1370000.00 |
+| 111 | Dinka Jester RR                     | Sports, Tuners          |            126.00 |  1970000.00 |
+| 112 | Dinka LSCM Jester RR (Widebody)     | Sports, Tuners          |            118.25 |  2290000.00 |
+| 113 | Karin Calico GTF                    | Sports, Tuners          |            121.00 |  1995000.00 |
+| 114 | Karin Futo GTX                      | Sports, Tuners          |            112.50 |  1590000.00 |
+| 115 | Pfister Comet S2                    | Sports, Tuners          |            122.50 |  1878000.00 |
+| 116 | Annis RE-7B                         | Super                   |            123.50 |  2475000.00 |
+| 117 | Annis S80RR                         | Super                   |            123.00 |  2575000.00 |
+| 118 | Benefactor Krieger                  | Super                   |            128.00 |  2875000.00 |
+| 119 | Coil Cyclone                        | Super                   |            116.00 |  1890000.00 |
+| 120 | Dewbauchee Champion                 | Super                   |            125.00 |  3750000.00 |
+| 121 | Emperor ETR1                        | Super                   |            121.25 |  1995000.00 |
+| 122 | Grotti Turismo Omaggio              | Super                   |            122.50 |  2845000.00 |
+| 123 | Lampadati Tigon                     | Super                   |            125.50 |  2310000.00 |
+| 124 | Ocelot Virtue                       | Super                   |            119.50 |  2980000.00 |
+| 125 | Ocelot XA-21                        | Super                   |            122.50 |  2375000.00 |
+| 126 | Overflod Entity MT                  | Super                   |            131.25 |  2355000.00 |
+| 127 | Overflod Pipistrello                | Super                   |            117.75 |  2950000.00 |
+| 128 | Pegassi Infernus                    | Super                   |            118.00 |   440000.00 |
+| 129 | Pegassi Torero XO                   | Super                   |            131.50 |  2890000.00 |
+| 130 | Pegassi Weaponized Ignus            | Super                   |            125.00 |  4500000.00 |
+| 131 | Pegassi Zentorno                    | Super                   |            122.25 |   725000.00 |
+| 132 | Pegassi Zorrusso                    | Super                   |            125.00 |  1925000.00 |
+| 133 | Pfister 811                         | Super                   |            130.75 |  1135000.00 |
+| 134 | Principe Deveste Eight              | Super                   |            131.25 |  1795000.00 |
+| 135 | Progen GP1                          | Super                   |            123.75 |  1260000.00 |
+| 136 | Progen Tyrus                        | Super                   |            123.25 |  2550000.00 |
+| 137 | Übermacht SC1                       | Super                   |            121.75 |  1603000.00 |
+| 138 | Bravado Rumpo Custom                | Vans                    |             98.75 |   130000.00 |
