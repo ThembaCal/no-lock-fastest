@@ -82,4 +82,4 @@ df.to_csv('gta_jammers.csv', index=False)
 ''' RESULTS '''
 results = df.sort_values(by='Top Speed (mph)', ascending=False)
 # print(df.to_markdown(floatfmt='.2f'))
-print(results.head(10).to_string())
+print(results.head(10).to_markdown(floatfmt='.2f'))
