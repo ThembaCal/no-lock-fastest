@@ -1,6 +1,9 @@
 import requests 
-from bs4 import BeautifulSoup
+from os.path import exists
 import pandas as pd
+import sqlite3
+# from db import create_db
+from bs4 import BeautifulSoup
 
 
 def get_page(url: str) -> bytes:
@@ -41,8 +44,8 @@ def extract_data(soup: BeautifulSoup) -> list:
      
 
 def clean_data(data: list) -> pd.DataFrame:
-    data  = pd.DataFrame(data)
-    df = data.dropna()
+    df  = pd.DataFrame(data)
+    df = df.dropna()
     
     df['Price ($)'] = df['Price ($)'].str.replace('$', '', regex=False).str.replace(',', '', regex=False)
     df['Price ($)'] = df['Price ($)'].astype(float).round(2)
@@ -55,7 +58,15 @@ def clean_data(data: list) -> pd.DataFrame:
     return df
 
 def save_csv(df: pd.DataFrame):
-    df.to_csv('gta_jammers.csv', index=False)
+    file_name = 'gta_jammers'
+    num = 0
+    if exists(file_name):
+        num += 1
+        df.to_csv(f"data/{file_name}{num:.2f}.csv", index=False)
+    else:
+        df.to_csv("data/gta_jammers.csv")
+
+
 
 def results_gen(df: pd.DataFrame):
     results = df.sort_values(by='Top Speed (mph)', ascending=False)
@@ -68,7 +79,9 @@ def main():
     soup = parse_page(html)
     data = extract_data(soup)
     df = clean_data(data)
-    save_csv(df)
+    # save_csv(df)
+    conn = sqlite3.connect("data/cars.sqlite")
+    df.to_sql(name='cars', con=conn, if_exists='replace', index=False)
     results_gen(df)
 
 
