@@ -1,6 +1,6 @@
 # GTA Online Fastest lock-on Jammer vehicle
 
-A Python script that scrapes a signle web page named GTA Online vehicles equipped with missile lock-on jammers from [GTABase](https://www.gtabase.com/), stores them in a CSV file, and identifies the top 10 fastest vehicles with a lock on jammer using Pandas.
+A Python script that scrapes a signle web page named GTA Online vehicles equipped with missile lock-on jammers from [GTABase](https://www.gtabase.com/), stores them in a sqlite DB, and identifies the top 10 fastest vehicles with a lock on jammer using Pandas.
 
 ---
 
